@@ -74,6 +74,9 @@ import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
+import github from "./socials/github.svg";
+import youtube from "./socials/youtube.svg";
+import buymeacoffee from "./socials/buymeacoffee.svg";
 
 export {
   brainwave,
@@ -144,4 +147,7 @@ export {
   instagram,
   telegram,
   twitter,
+  github,
+  youtube,
+  buymeacoffee,
 };
