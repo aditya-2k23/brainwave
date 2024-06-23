@@ -77,6 +77,7 @@ import twitter from "./socials/twitter.svg";
 import github from "./socials/github.svg";
 import youtube from "./socials/youtube.svg";
 import buymeacoffee from "./socials/buymeacoffee.svg";
+import linkedin from "./socials/linkedin.svg";
 
 export {
   brainwave,
@@ -150,4 +151,5 @@ export {
   github,
   youtube,
   buymeacoffee,
+  linkedin,
 };

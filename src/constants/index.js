@@ -37,6 +37,7 @@ import {
   github,
   youtube,
   buymeacoffee,
+  linkedin,
 } from "../assets";
 
 export const navigation = [
@@ -312,20 +313,26 @@ export const socials = [
   },
   {
     id: "2",
+    title: "LinkedIn",
+    iconUrl: linkedin,
+    url: "https://linkedin.com/in/aditya-2k23",
+  },
+  {
+    id: "3",
+    title: "GitHub",
+    iconUrl: github,
+    url: "https://github.com/aditya-2k23",
+  },
+  {
+    id: "4",
     title: "Instagram",
     iconUrl: instagram,
     url: "https://instagram.com/aditya.found",
   },
   {
-    id: "3",
+    id: "5",
     title: "YouTube",
     iconUrl: youtube,
     url: "https://youtube.com/@TemaroonGaming",
-  },
-  {
-    id: "4",
-    title: "GitHub",
-    iconUrl: github,
-    url: "https://github.com/aditya-2k23",
   },
 ];
