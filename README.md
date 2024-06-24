@@ -6,11 +6,11 @@ Its sleek design, seamless animations, and overall user experience set a high st
 
 See the [live demo](https://brainwave-aditya-2k23s-projects.vercel.app/).
 
-![img](./src/assets/hero.png)
+![img](./src/assets/Hero.png)
 
 ![img](./src/assets/gridSection.png)
 
-![img](./src/assets/roadmap.png)
+![img](./src/assets/Roadmap.png)
 
 ## Tech Stack
 
